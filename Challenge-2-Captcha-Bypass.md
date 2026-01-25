@@ -1,12 +1,25 @@
-# Proof of Concept (PoC)
-## Challenge 2: CAPTCHA Bypass
+<div align="center">
 
-| Informasi | Detail |
+# 🚩 Challenge 2: CAPTCHA Bypass
+
+![Risk Level](https://img.shields.io/badge/Risk-Medium-yellow?style=for-the-badge&logo=appveyor)
+![Status](https://img.shields.io/badge/Status-SOLVED-brightgreen?style=for-the-badge)
+![Category](https://img.shields.io/badge/Category-Broken%20Anti--Automation-blue?style=for-the-badge)
+
+</div>
+
+---
+
+## 📋 Ringkasan (Summary)
+
+| Atribut | Keterangan |
 | :--- | :--- |
-| **Target** | OWASP Juice Shop |
-| **Vulnerability** | Broken Anti-Automation (Replay Attack) |
+| **Vulnerability** | Broken Anti-Automation / Replay Attack |
+| **CWE ID** | CWE-294: Authentication Bypass by Capture-replay |
 | **Endpoint** | `/api/Feedbacks` |
-| **Status** | Solved |
+| **Tools** | Burp Suite Community |
+
+---
 
 ### 1. Deskripsi
 Mengirimkan 10 atau lebih umpan balik pelanggan (*feedback*) dalam waktu 20 detik dengan cara melewati mekanisme anti-otomasi (CAPTCHA) aplikasi.
