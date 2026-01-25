@@ -58,7 +58,8 @@ Buka tab **Repeater** pada menu atas Burp Suite. Rincian paket sudah siap dimani
 
 Tanpa menunggu, tekan tombol **Send** secara berulang-ulang (*spam*) sebanyak 10-20 kali dengan cepat. Konsistensi respons `201 Created` membuktikan server menerima jawaban CAPTCHA yang sama berulang kali.
 
-<img width="1311" height="797" alt="Screenshot 2026-01-25 105827" src="https://github.com/user-attachments/assets/74a22f91-876a-47c5-91a4-f707fbecf7ac" />
+<img width="1919" height="828" alt="Screenshot 2026-01-25 104923" src="https://github.com/user-attachments/assets/969e197b-d9f4-4d16-a9be-7854b325da53" />
+
 
 ---
 
