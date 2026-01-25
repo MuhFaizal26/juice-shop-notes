@@ -62,7 +62,7 @@ Tanpa menunggu, tekan tombol **Send** secara berulang-ulang (*spam*) sebanyak 10
 
 ---
 
-### 4. Hasil Akhir
+### 4. 🚩 Flag
 Tantangan berhasil diselesaikan. Notifikasi sukses muncul yang menandakan mekanisme CAPTCHA berhasil di-*bypass*.
 
 <img width="876" height="205" alt="Screenshot 2026-01-24 153407" src="https://github.com/user-attachments/assets/3478259f-9cc4-46d8-9b05-99f431d540a7" />
