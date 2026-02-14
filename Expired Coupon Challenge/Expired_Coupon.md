@@ -15,7 +15,7 @@ Kami melakukan inspeksi pada source code (`main.js`) dan menemukan objek `campai
 ![Source Code Analysis](source-code-campaigns.png)
 
 Kami mengonversi timestamp tersebut menggunakan Unix Timestamp Converter. Ditemukan bahwa kode tersebut valid pada bulan **Maret** (tahun 2019/2020).
-![Timestamp Conversion]()
+![Timestamp Conversion](unix-convert.png)
 
 ---
 
