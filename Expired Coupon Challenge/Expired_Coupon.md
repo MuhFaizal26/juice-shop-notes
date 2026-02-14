@@ -1,4 +1,4 @@
-# Challenge: Expired Coupon
+# Challenge 4: Expired Coupon
 
 ### Description
 Toko ini membuang diskon lamanya ke tong sampah karena dianggap sudah busuk dimakan waktu. Namun mesin kasirnya tidak punya hidung untuk mencium bau itu. Pungut kembali kode yang telah mati, dan suapkan paksa ke mulut sistem.
