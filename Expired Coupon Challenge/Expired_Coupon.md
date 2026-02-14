@@ -14,7 +14,7 @@ Toko ini membuang diskon lamanya ke tong sampah karena dianggap sudah busuk dima
 Kami melakukan inspeksi pada source code (`main.js`) dan menemukan objek `campaigns` yang berisi kode kupon `WMNSDY2019`. Di sana terlihat properti `validOn` dengan nilai timestamp unix.
 ![Source Code Analysis](source-code-campaigns.png)
 
-Kami mengonversi timestamp tersebut menggunakan Unix Timestamp Converter. Ditemukan bahwa kode tersebut valid pada bulan **Maret** (tahun 2019/2020).
+Kami mengonversi timestamp tersebut menggunakan Unix Timestamp Converter. Ditemukan bahwa kode tersebut valid pada bulan **8 Maret 2019** .
 ![Timestamp Conversion](unix-convert.png)
 
 ---
